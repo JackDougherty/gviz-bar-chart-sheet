@@ -1,6 +1,8 @@
 gviz-bar-chart-sheet
 ====================
 
-Google Visualization API interactive bar chart, with stacked option, which draws data from Google Spreadsheet
+Use this template to create a custom interactive bar chart (with stacked chart option) that draws data from a Google Spreadsheet, using Google Visualization API
 
 Demo at http://jackdougherty.github.io/gviz-bar-chart-sheet/
+
+Learn more at Data Visualization with Community Partners open-access book-in-progress at http://epress.trincoll.edu/dataviz
